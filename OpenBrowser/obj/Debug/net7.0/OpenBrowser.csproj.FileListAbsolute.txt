@@ -1,0 +1,15 @@
+D:\Working\C#\OpenBrowser\OpenBrowser\bin\Debug\net7.0\OpenBrowser.exe
+D:\Working\C#\OpenBrowser\OpenBrowser\bin\Debug\net7.0\OpenBrowser.deps.json
+D:\Working\C#\OpenBrowser\OpenBrowser\bin\Debug\net7.0\OpenBrowser.runtimeconfig.json
+D:\Working\C#\OpenBrowser\OpenBrowser\bin\Debug\net7.0\OpenBrowser.dll
+D:\Working\C#\OpenBrowser\OpenBrowser\bin\Debug\net7.0\OpenBrowser.pdb
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.csproj.AssemblyReference.cache
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.AssemblyInfoInputs.cache
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.AssemblyInfo.cs
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.csproj.CoreCompileInputs.cache
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.dll
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\refint\OpenBrowser.dll
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.pdb
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\OpenBrowser.genruntimeconfig.cache
+D:\Working\C#\OpenBrowser\OpenBrowser\obj\Debug\net7.0\ref\OpenBrowser.dll
