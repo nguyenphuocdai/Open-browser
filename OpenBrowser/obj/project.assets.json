@@ -8,24 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\daing\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\dai.nguyenp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Working\\C#\\OpenBrowser\\OpenBrowser\\OpenBrowser.csproj",
+      "projectUniqueName": "D:\\Working\\OpenBrowser\\OpenBrowser\\OpenBrowser.csproj",
       "projectName": "OpenBrowser",
-      "projectPath": "D:\\Working\\C#\\OpenBrowser\\OpenBrowser\\OpenBrowser.csproj",
-      "packagesPath": "C:\\Users\\daing\\.nuget\\packages\\",
-      "outputPath": "D:\\Working\\C#\\OpenBrowser\\OpenBrowser\\obj\\",
+      "projectPath": "D:\\Working\\OpenBrowser\\OpenBrowser\\OpenBrowser.csproj",
+      "packagesPath": "C:\\Users\\dai.nguyenp\\.nuget\\packages\\",
+      "outputPath": "D:\\Working\\OpenBrowser\\OpenBrowser\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\daing\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\dai.nguyenp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.107\\RuntimeIdentifierGraph.json"
       }
     }
   }

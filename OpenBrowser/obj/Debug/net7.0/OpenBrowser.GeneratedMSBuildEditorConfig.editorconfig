@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = OpenBrowser
-build_property.ProjectDir = D:\Working\C#\OpenBrowser\OpenBrowser\
+build_property.ProjectDir = D:\Working\OpenBrowser\OpenBrowser\

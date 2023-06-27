@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jpOyoBy6mfFQ+bHPz6itHnoc/FTE3ACUOfh7XpH6uPXafxN31oxW3+Y0qikmECJGKre02pIvwMDzAGwiI7iPSA==",
+  "dgSpecHash": "1hzwW4kztadFszfyxqTpqvIZtxVxIru8vcBx4Pmh+XI6NQkrp96HaDrF+0mGmVQ54x8WPSZcJcWZrmT1l/YR6Q==",
   "success": true,
-  "projectFilePath": "D:\\Working\\C#\\OpenBrowser\\OpenBrowser\\OpenBrowser.csproj",
+  "projectFilePath": "D:\\Working\\OpenBrowser\\OpenBrowser\\OpenBrowser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
